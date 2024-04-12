@@ -1,4 +1,4 @@
-A project that compare DQN and double DQN with dueling architecture
+A project that compares DQN and double DQN with dueling architecture
 <p float="center">
   <img src="/best_run.gif" width="250" />
 </p>
